@@ -1,8 +1,8 @@
 #### Potential project topics & questions
 
-1.
+1. Volatility of vaccine confidence
 
-2.
+2. Why isnt kaiten sushi popular in New York
 
 3.
 
