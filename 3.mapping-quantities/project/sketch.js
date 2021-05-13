@@ -9,3 +9,4 @@ function setup(){
 
   print('csv data converted to a p5 "Table" object:', data)
 }
+

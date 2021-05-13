@@ -11,6 +11,8 @@ Compare differnt strain of diseases vaccination piror to 2016/2014 to now
 3. What are the 5 most common vaccines in the US and the vaccinated rate for each 
 4. Polling for hesitancy / anti-vaccine 
 5. Research in news articles for dated opinions 
+6. History of anti-vaxx movement
+7. Polio vaccine
 
 
 
