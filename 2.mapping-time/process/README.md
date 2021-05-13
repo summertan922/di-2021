@@ -2,7 +2,7 @@
 
 Description of the contents of this folder and the logic of your data → retinal variables mapping.
 
-//I implimented my sketches in p5js instead of sublime editor. 
+//I implimented my sketches in p5js instead of sublime editor. It might take a while for html to load the clock.js//
 
 clock01: Green horizontal line represents the seconds, blue vertical line represents the minutes, and red oval line represents the hours. As time passby, all three lines grow in length.
 
